@@ -1,3 +1,4 @@
+# Perguntas
 ### 1) Explique como a sobrescrita de métodos permite comportamentos diferentes para objetos da mesma hierarquia.
 
 - Quando uma subclasse define um método com as mesmas características de um método da superclasse, esse método é alterado apenas para essa subclasse. Assim, ao chamar o método em um objeto da subclasse, a versão sobrescrita (e não a da superclasse) será executada.
